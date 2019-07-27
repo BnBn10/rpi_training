@@ -6,6 +6,12 @@ date : 日付（開始日？）
  */
 
 /*
+include
+ */
+#include <stdio.h>
+#include <stdlib.h>
+
+/*
 fn
 ここに関数の説明を書く
 brief : 要約説明
