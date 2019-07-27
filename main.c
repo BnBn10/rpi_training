@@ -1,8 +1,8 @@
 /*
-file : ファイル名.h
-brief : 簡単な説明
-author : 書いた人
-date : 日付（開始日？）
+File : main.h
+Brief : エントリーポイント
+Author : BnBn10
+Create Date : 2019-07-27
  */
 
 /*
@@ -12,14 +12,12 @@ include
 #include <stdlib.h>
 
 /*
-fn
-ここに関数の説明を書く
-brief : 要約説明
-param : (引数名) 引数の説明
-param : (引数名) 引数の説明
-return : 戻り値の説明
-sa : 参照すべき関数を書けばリンクが貼れる
-detail : 詳細な説明
+エントリーポイント
+brief : エントリーポイント
+param : (argc)
+param : (argv)
+return : 0
+detail : エントリーポイント
  */
 int main(int argc, char *argv[]) {
   printf("Hello world.\n");
